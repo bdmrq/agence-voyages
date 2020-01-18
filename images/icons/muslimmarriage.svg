@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="593" height="248" viewBox="0 0 593 248">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 125px;
+        font-family: "Black Jack";
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 75px;
+        font-family: "Avenir Next";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <image x="392" y="1" width="12" height="13" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAYAAACdKY9CAAAAKElEQVQokWP8//8/IwMJgIWBgeEfKRqYSFE8qmEIawAlDeI1MTAwAADYKQQcS1mDNgAAAABJRU5ErkJggg=="/>
+  <text id="Marriage" class="cls-1" x="83.934" y="191.379">Marriage</text>
+  <text id="Muslim" class="cls-2" x="77.531" y="94.625">Muslim</text>
+</svg>
